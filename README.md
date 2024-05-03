@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/CryptoQu3/Impact-MultiTool">
-    <img src="https://media.discordapp.net/attachments/1209895707675205653/1209919950689411092/RmDJt7xVhNFTA6yvy3EWfsTbki45EeI67K93h75F_1.png?ex=66294643&is=6616d143&hm=8cce712a285d32b65a312791f34629121b3c8a37fedecf3f64c4372bfe4c004c&" alt="Logo" width="80" height="80">
+    <img src="https://cdn.discordapp.com/icons/1083518905215103086/1b40b7f58085e780ebe668d7ed863ebd.png?size=4096" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">[ Impact MultiTool ] - discord.gg/3VYgQ7gy6D</h3>
@@ -18,7 +18,7 @@
 
 
 ## Screenshot
-![ss](https://cdn.discordapp.com/attachments/1207062501577990154/1213239706515542136/20240301_223248.png?ex=662c1f86&is=6619aa86&hm=18f8ccb38b7e058e0c48f9c5e27f8dfc7907dbab06a52989f775523cc0b1ffb9&)
+![ss](https://cdn.discordapp.com/attachments/1093888373246152838/1235862449828397110/Impact_MultiTool.png?ex=6635ea19&is=66349899&hm=b3f9369006b04f9e15c7422825323d84b59bd90f2c2ce2bf61d3cea4fc431234&)
 
 ## Releases
 - 10 Stars for Release ⭐ ✔
