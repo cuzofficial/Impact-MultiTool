@@ -1,7 +1,7 @@
 __title__ = 'Impact'
 __author__ = 'cuzofficial'
 __copyright__ = 'discord.gg/3VYgQ7gy6D'
-__version__ = '4.0.0'
+__version__ = '4.0.1'
 
 import re
 import os
@@ -113,12 +113,12 @@ def donate_infos():
     print(f"{Fore.RESET}Btc: {Fore.GREEN}discord.gg/3VYgQ7gy6D")
     print(f"{Fore.RESET}Ltc: {Fore.GREEN}discord.gg/3VYgQ7gy6D")
     print(f"{Fore.RESET}Eth: {Fore.GREEN}discord.gg/3VYgQ7gy6D")
-    input("Press Enter To continue...")
+    input("ɪᴍᴘᴀᴄᴛ | Press Enter To continue...")
 
 os.system("title discord.gg/3VYgQ7gy6D")
-response = requests.get('C:\Users\PH0BIA#PC2\Downloads\Impact-MultiTool-main\Phobia-MultiTool-main\Helper')
+response = requests.get('https://github.com/CryptoQu3/Impact-MultiTool/tree/main/Helper')
 version_match = re.search(r"__version__\s*=\s*[\'\"](.*?)[\'\"]", response.text)
 if version_match and __version__ == version_match.group(1):
     pass
 else:
-    input(f"{Fore.RED} New Version Detected! https://github.com/CuzOfficial/Impact-MultiTool")
+    input(f"{Fore.RED} 🤍 New Version Detected! https://github.com/CryptoQu3/Impact-MultiTool")
