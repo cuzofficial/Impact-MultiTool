@@ -1,16 +1,16 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/VatosV2/Nexus-MultiTool">
+  <a href="https://github.com/CryptoQu3/Impact-MultiTool">
     <img src="https://media.discordapp.net/attachments/1209895707675205653/1209919950689411092/RmDJt7xVhNFTA6yvy3EWfsTbki45EeI67K93h75F_1.png?ex=66294643&is=6616d143&hm=8cce712a285d32b65a312791f34629121b3c8a37fedecf3f64c4372bfe4c004c&" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">[Nexus MultiTool] - discord.gg/nexustools</h3>
+  <h3 align="center">[ Impact MultiTool ] - discord.gg/3VYgQ7gy6D</h3>
 
   <p align="center">
-    Nexus-MultiTool is a Multitool mostly centered around discord Tokens But also has Other Features.
+    Impact-MultiTool is a Multitool mostly centered around discord Tokens But also has Other Features.
     <br/>
     <br/>
-    <a href="https://discord.gg/nexustools">Discord</a>
+    <a href="https://discord.gg/3VYgQ7gy6D">Discord</a>
   </p>
 </p>
 <h3 align="center";">Please Star To support this project for free! ⭐</h3>
@@ -134,7 +134,7 @@
 ```
 ## Donate
 ```py
-Btc: bc1q2e86tshk0cs05sty5ajlc6n6j8esutj2umcjtz
-Ltc: Lf5vGeL8BwNE84QGyAh1TJWuDxhyKS7QTD
-Eth: 0xa66343933221706294c29935FC8da88b025D501B
+Btc: 
+Ltc: 
+Eth: 
 ```
