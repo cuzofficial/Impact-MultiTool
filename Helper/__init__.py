@@ -116,7 +116,7 @@ def donate_infos():
     input("ɪᴍᴘᴀᴄᴛ | Press Enter To continue...")
 
 os.system("title discord.gg/3VYgQ7gy6D")
-response = requests.get('https://github.com/CryptoQu3/Impact-MultiTool/tree/main/Helper')
+response = requests.get('https://github.com/CryptoQu3/Impact-MultiTool/tree/main/Helper/__init__.py')
 version_match = re.search(r"__version__\s*=\s*[\'\"](.*?)[\'\"]", response.text)
 if version_match and __version__ == version_match.group(1):
     pass
